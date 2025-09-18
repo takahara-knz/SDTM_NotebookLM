@@ -1,0 +1,2 @@
+# SDTM_NotebookLM
+NotebookLMでSDTMチャットボットを作るためのレポジトリ
