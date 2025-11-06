@@ -70,4 +70,9 @@ NotebookLMを使ってSDTMチャットボットを構築するためのレポジ
 - CDISC関連ドキュメントは各自で取得してください（再配布不可）
 - 本レポジトリは教育・研究目的での利用を想定しています
 - 一般的な生成AIよりは精度が高いですが、100%正確ではありません。
+- このリポジトリで使用しているTerminologyのテキストデータは、米国国立がん研究所（NCI）が以下のページで公開しているCDISC Terminology（SDTM）を加工し、Google翻訳結果を付加したものです。
+  - 出典：https://www.cancer.gov/about-nci/organization/cbiit/vocabulary/cdisc
+  - The National Cancer Institute (NCI) does not endorse this translation and no endorsement by NCI should be inferred.
+  - 国立がん研究所 (NCI) はこの翻訳を承認しておらず、NCI による承認を推測すべきではありません
+
 
