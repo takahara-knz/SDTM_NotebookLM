@@ -26,9 +26,10 @@ NotebookLMを使ってSDTMチャットボットを構築するためのレポジ
 ### ② GitHubからデータと初期命令を取得
 
 - [Dataフォルダ](https://github.com/takahara-knz/SDTM_NotebookLM/tree/main/Data)から以下をダウンロード：
-  - `00.` で始まるファイル群
-  - `02.` で始まるファイル群
+  - `00.` で始まるファイル
+  - `02.` で始まるファイル
 - 左メニューの `初期命令sample.txt` もダウンロード
+- Terminologyは20260327版が出ていますが、下位互換なしにSDTM4.0にない用語が削除されており、SDTM3.3では使い物にならなくなっています。そのため、ここで提供するTerminologyは20250926版のままとしています。
 
 ### ③ Googleアカウントの準備
 
